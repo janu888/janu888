@@ -11,7 +11,7 @@ I spend most of my time crafting backend logic, exploring system design, and imp
 
 ---
 
-# 🛠️ Technical Skills (With Badges)
+# 🛠️ Technical Skills
 
 ### **🔹 Programming Languages**
 <p>
