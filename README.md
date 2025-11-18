@@ -78,17 +78,5 @@ EDA • Feature Engineering • Statistical Analysis
 
 ---
 
-# 🐍 Contribution Snake
-<div align="center">
-  <img src="https://github.com/janu888/janu888/blob/output/github-contribution-grid-snake.svg" />
-</div>
-
----
-
 ## 📫 Contact Me
 📧 **jahnavi.n45@gmail.com**
-
----
-
-## 🌙 Final Note
-> *“Elegance in code is elegance in thought.”*
