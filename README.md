@@ -57,7 +57,6 @@ I spend most of my time crafting backend logic, exploring system design, and imp
 <p>
   <img src="https://img.shields.io/badge/DSA-02569B?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/SDLC-4CAF50?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Agile%2FScrum-FF9800?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
 </p>
 
@@ -68,20 +67,8 @@ EDA • Feature Engineering • Statistical Analysis
 
 ---
 
-# 🚀 Featured Projects
 
-### **🔹 Smart Attendance System (Django)**
-QR-based digital attendance with Wi-Fi validation, geolocation control & real-time verification.
-
-### **🔹 Supermarket Billing System (Java GUI)**
-Retail billing application using Java Swing and modular architecture.
-
-### **🔹 Stopwatch & Timer (Java)**
-Minimalist stopwatch/timer with GUI using core Java.
-
----
-
-# 📊 GitHub Stats (Neon Dark Theme)
+# 📊 GitHub Stats
 <div align="center">
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=janu888&theme=tokyonight&hide_border=true" height="165px" />
