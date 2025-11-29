@@ -65,10 +65,6 @@ Pandas • NumPy • Scikit-learn • Matplotlib • Seaborn • OpenCV •
 R Shiny • Power BI • Tableau • Excel Dashboards • Data Cleaning •  
 EDA • Feature Engineering • Statistical Analysis  
 
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=janu888&theme=tokyonight&hide_border=true" height="165px" />
-  <img src="https://github-readme-stats.vercel.app/api?username=janu888&show_icons=true&theme=tokyonight&hide_border=true" height="165px" />
-
 </div>
 
 ---
